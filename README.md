@@ -15,7 +15,7 @@ behavior to the list elements and implement a filter.
 requirements described below and verifying that your code is working correctly
 in the browser.
 
-## Challenge 1
+## Challenge 1 - Done
 
 This repository includes an `index.html` file that loads an `index.js` file.
 
@@ -31,7 +31,7 @@ Add JavaScript that:
 
 ---
 
-## Challenge 2
+## Challenge 2 DONE
 
 ```js
 const breedUrl = 'https://dog.ceo/api/breeds/list/all'
@@ -44,7 +44,7 @@ After the first challenge is completed, add JavaScript that:
 
 ---
 
-## Challenge 3
+## Challenge 3 DONE!!!
 
 Once all of the breeds are rendered in the `<ul>`, add JavaScript so that, when
 the user clicks on any one of the `<li>`s, the font color of that `<li>`
